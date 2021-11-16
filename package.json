@@ -44,7 +44,7 @@
     "whitelist": [
       "http://localhost:3000",
       "http://localhost:8080",
-      "http://appid-login-git-react-appid-project.anthony-web-development-2bef1f4b4097001da9502000c44fc2b2-0000.us-south.containers.appdomain.cloud/"
+      "http://appid-copy-react-appid-project.anthony-web-development-2bef1f4b4097001da9502000c44fc2b2-0000.us-south.containers.appdomain.cloud"
     ]
   }
 }
